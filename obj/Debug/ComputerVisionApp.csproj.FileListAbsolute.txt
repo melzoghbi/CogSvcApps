@@ -1,0 +1,8 @@
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\bin\Debug\ComputerVisionApp.exe.config
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\bin\Debug\ComputerVisionApp.exe
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\bin\Debug\ComputerVisionApp.pdb
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\obj\Debug\ComputerVisionApp.exe
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\obj\Debug\ComputerVisionApp.pdb
+c:\users\moelzogh\documents\visual studio 2015\Projects\CogSvcApp\CogSvcApp\obj\Debug\ComputerVisionApp.csprojResolveAssemblyReference.cache
