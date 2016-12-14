@@ -11,8 +11,8 @@ Additionally, it can also intelligently generate images thumbnails for displayin
 
 ## Application Input
 
-1) Image Url: you can pass the image url while the app is running or in the application settings as an argument.
-2) Conputer Vision API Key: you need to set the subscription key in the app.config file.
+1. Image Url: you can pass the image url while the app is running or in the application settings as an argument.
+2.Computer Vision API Key: you need to set the subscription key in the app.config file.
 
 
 ![Application Output](/Images/Output.PNG)
