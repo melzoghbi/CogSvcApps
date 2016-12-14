@@ -28,7 +28,9 @@ Additionally, it can also intelligently generate images thumbnails for displayin
 3. Image Metadata: This includes width, height and image format.
 
 
+References:
++ Read more about Cognitive Services [here](https://www.microsoft.com/cognitive-services/)
 
-Read more about Cognitive Services [here](https://www.microsoft.com/cognitive-services/)
-Read more about Computer Vision API [here](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
-This Application uses Describe Image API [here](https://www.microsoft.com/cognitive-services/en-us/Computer-Vision-API/documentation/DescribingImages)
++ Read more about Computer Vision API [here](https://www.microsoft.com/cognitive-services/en-us/computer-vision-api)
+
++ This Application uses Describe Image API [here](https://www.microsoft.com/cognitive-services/en-us/Computer-Vision-API/documentation/DescribingImages)
