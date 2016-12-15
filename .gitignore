@@ -243,3 +243,6 @@ ModelManifest.xml
 
 *.config
 App.config
+
+bin/Debug
+bin/Release
