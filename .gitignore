@@ -241,8 +241,12 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
+# config files
 *.config
 App.config
 
+
+# debug files
+obj/Debug
 bin/Debug
 bin/Release
